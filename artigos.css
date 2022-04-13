@@ -1,0 +1,50 @@
+.interna-artigos {
+background: url("../img/artigos.jpg") no-repeat center;
+background: cover;
+}
+
+.interna-artigos h1 {
+	color:#fff;
+}
+
+.interna-artigos h1:after {
+	content: "";
+	display: block;
+	width: 60px;
+	height: 3px;
+	background: #fff;
+	margin: 8px auto;
+}
+
+.interna-artigos p {
+	color:#fff;
+}
+
+.artigos-page h3 {
+	color:#ff7200;;
+	font-size: 20px;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin-top: 24px;	
+	text-align: center;
+	padding-bottom: 15px;
+	}
+
+.artigos-page li a{
+	color:#000;
+	font-size: 16px;
+	margin-top: 18px;
+	font-style: italic;
+	font-family: Georgia, "Times New Roman", serif;
+	text-align: center;
+}
+
+.artigos-page p {
+	color:#000;
+	font-size: 16px;
+	margin-top: 18px;
+	font-style: italic;
+	margin-bottom: 40px;
+	font-family: Georgia, "Times New Roman", serif;
+}
+

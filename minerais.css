@@ -1,0 +1,64 @@
+.interna_minerais {
+background: url("../img/minerais.jpg") no-repeat center;
+background: cover;
+}
+
+.historia {
+	padding-top:60px;
+}
+
+ .interna_minerais h1 {
+	color:#fff;
+	font-size: 24px;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin-top: 24px;	
+	text-align: center;
+	}
+
+.interna_minerais p{
+	color:#fff;
+}
+.interna_minerais h1:after {
+	content: "";
+	display: block;
+	width: 60px;
+	height: 3px;
+	background: #fff;
+	margin: 8px auto;
+}
+
+p {
+	color:#000;
+	text-align: center;
+	font-size: 18px;
+	margin-top: 18px;
+	font-style: italic;
+	margin-bottom: 40px;
+}
+
+
+.minerais-icone img {
+	padding-top: 15px;
+}
+
+.mineral {
+	margin-bottom: 20px;
+	
+}
+.descricao {
+	background-color: #000;
+	padding:40px 60px;
+	margin-top:20px;
+	margin-bottom: 20px;
+}
+
+.descricao p{
+	color:#fff;
+
+}
+
+.blockquote p {
+	color:#fff;
+}
+
